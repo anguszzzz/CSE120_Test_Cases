@@ -1,0 +1,174 @@
+if (Fork () == 0) {
+        Delay (1200);                   // car 2
+        driveRoad (WEST, 60);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (500);                    // car 3
+        driveRoad (EAST, 50);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (900);                    // car 4
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+
+    driveRoad (EAST, 40);                       // car 1
+
+    Exit ();
+
+
+
+
+
+
+
+if (Fork () == 0) {
+        Delay (1200);                   // car 2
+        driveRoad (WEST, 60);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (500);                    // car 3
+        driveRoad (EAST, 50);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (900);                    // car 4
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+    if (Fork () == 0) {
+        Delay (900);                    // car 5
+        driveRoad (EAST, 30);
+        Exit ();
+    }
+
+    driveRoad (EAST, 40);                       // car 1
+
+    Exit ();
+
+
+
+
+
+
+
+    if (Fork () == 0) {
+        Delay (200);                  // car 2
+        driveRoad (WEST, 60);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (400);                  // car 3
+        driveRoad (EAST, 50);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (600);                  // car 4
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+    if (Fork () == 0) {
+        Delay (800);                    // car 5
+        driveRoad (EAST, 30);
+        Exit ();
+    }
+
+    driveRoad (EAST, 40);                       // car 1
+
+    Exit ();
+
+
+
+
+
+
+if (Fork () == 0) {
+        Delay (200);                  // car 2
+        driveRoad (WEST, 60);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (400);                  // car 3
+        driveRoad (EAST, 50);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (600);                  // car 4
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+    if (Fork () == 0) {
+        Delay (800);                    // car 5
+        driveRoad (EAST, 30);
+        Exit ();
+    }
+
+    driveRoad (EAST, 40);                       // car 1
+
+    Exit ();
+
+
+
+
+
+
+
+if (Fork () == 0) {
+        Delay (200);                  // car 2
+        driveRoad (EAST, 60);
+        Exit ();
+    }
+
+if (Fork () == 0) {
+        Delay (400);                  // car 3
+        driveRoad (WEST, 50);
+        Exit ();
+    }
+
+    if (Fork () == 0) {
+        Delay (600);                  // car 4
+        driveRoad (EAST, 30);
+        Exit ();
+    }
+    if (Fork () == 0) {
+        Delay (800);                    // car 5
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+       if (Fork () == 0) {
+        Delay (1000);                  // car 6
+        driveRoad (EAST, 30);
+        Exit ();
+    }
+    if (Fork () == 0) {
+        Delay (1200);                    // car 7
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+            if (Fork () == 0) {
+        Delay (1400);                  // car 8
+        driveRoad (EAST, 30);
+        Exit ();
+    }
+    if (Fork () == 0) {
+        Delay (1600);                    // car 9
+        driveRoad (WEST, 30);
+        Exit ();
+    }
+
+
+    driveRoad (WEST, 40);                       // car 1
+
+    Exit ();
+
